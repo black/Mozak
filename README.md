@@ -9,6 +9,16 @@ An EEG Visualizer built with Node.js that connects to any headband using the Neu
 - Attention and Meditation Values: Monitor calculated metrics like attention and meditation levels for neurofeedback or mindfulness tracking.
 - Local Data Storage: Save recorded EEG data to a local file for further analysis or record-keeping.
 
+## Instructions
 
+1. Install the required packages
+````
+npm install
+````  
+2. Run the server -
+
+````
+node app.js
+````
 
 ![alt](https://github.com/black/mozak/blob/master/screencapture-localhost-3000-1520233749921.png)
