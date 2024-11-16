@@ -18,7 +18,7 @@ npm install
 2. Run the server -
 
 ````
-node app.js
+node server.js
 ````
 
 ![alt](https://github.com/black/mozak/blob/master/screencapture-localhost-3000-1520233749921.png)
