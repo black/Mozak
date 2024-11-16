@@ -11,11 +11,16 @@ An EEG Visualizer built with Node.js that connects to any headband using the Neu
 
 ## Instructions
 
+1. Install and Run ThinkGear Connector
+   - Download and install the ThinkGear Connector provided by Neurosky.
+   - Start the ThinkGear Connector to create a WebSocket server that streams EEG data from the headband.
+
+
 1. Install the required packages
 ````
 npm install
 ````  
-2. Run the server -
+3. Run the server -
 
 ````
 node server.js
